@@ -26,6 +26,8 @@ public class App {
                 System.out.print("작가 : ");
                 String authorName = sc.nextLine().trim();
 
+                System.out.println("1번 명령이 등록되었습니다.");
+
 
             }
         }
